@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2203",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmQZzcHBhXx1AEgc4kq1FUk83WP6SCZ6VoB8N4FyGzanBa",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Helmet"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

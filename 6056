@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6056",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmdeLrBAAKWaLnW2FZP5V7zjiKtYjRNTu7nPGbirLijMtd",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sunscreens"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Space Helmet"
+    }
+  ]
+}

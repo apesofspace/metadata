@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1402",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmXZWjQNYQStfQmjxrDRKRiSaDCnoTWmm1Es1KXByAXV5Q",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Double Protection"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Space Helmet"
+    }
+  ]
+}

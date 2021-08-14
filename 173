@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #173",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/Qme7B6eikvMtQHWxfUTGY1HExiRB19mjdSSFfzUwZcNSsc",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Jackpot"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

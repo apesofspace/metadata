@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7319",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmNjuEmPgAyHAVjzy1GcZesSsityMpq5hEFryFjHJsT7Ks",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "X1Y system"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Vision"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bitcoin Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captain"
+    }
+  ]
+}

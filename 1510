@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1510",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmTkQENgziAXnMBaGcDPnru8z6SQUfwRG4hV8s1SpjUDAW",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ordinary Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Math"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    }
+  ]
+}

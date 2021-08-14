@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5966",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmcqKKs5beAoexyjPNpex9v481vAAEfaXeSCbNeaj7xFDC",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Banzai"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

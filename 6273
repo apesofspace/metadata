@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6273",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmToCt4JyBKL6cqiKJpLRjtJwiKHpw6rBqS31pbQepj8qP",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Space Helmet"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1749",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmSvkmtBnYJtMCTXc9TnxMXgTskh2PHBx9T1UXNfLyGRG7",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horn"
+    }
+  ]
+}

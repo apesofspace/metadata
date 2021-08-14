@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #48",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmNtnEKLTAZNz8X2JMKzryiNP3cX8d3MEZJkhWF5HXBt7F",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Golden Teeth"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

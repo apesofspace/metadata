@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2813",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmRbaz49mDoT3md5gy1gNdQMc51U7VNsQs6U6Z8yPipBur",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Jackpot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien"
+    }
+  ]
+}

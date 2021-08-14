@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1725",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmX5UjCZE6dSLqvmooAehA6S6Q1SRDtsM7NjG7d3e1VKcx",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Lover"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Helmet"
+    }
+  ]
+}

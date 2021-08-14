@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4022",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmWMSZGyV94SMnrQBHSUrksz4idK12Crg2Nz7NSB2FdnC2",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Memes"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    }
+  ]
+}

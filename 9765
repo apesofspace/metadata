@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9765",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmQRGDP6jxZNx4Cu2eWoj5z6JZFe6xjrwyA9zN2EDa8hLg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Double Protection"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA Space Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    }
+  ]
+}

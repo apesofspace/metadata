@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7711",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmPNyodjavJayiNtsT4F2QK5ZbGqt7PExNHMSZB7589fMN",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Racer"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6643",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmaHsCYoetHEtUP7zzBecSr5uKGWnfhzGn3yrCPpioHQro",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Safety Glass"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit RU"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    }
+  ]
+}

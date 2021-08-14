@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3355",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmNU9v3BoZEqh4DmSRhyfkW6m7vqf7JH9rqy3PdDKqoWCc",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2624",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmS5KaG8pQwaTFsPjf9Z4F9cUqtabpBfStb5oyhyGaPkAi",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fruit Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Butterfly"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captain"
+    }
+  ]
+}

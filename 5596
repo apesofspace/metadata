@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5596",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmXyCjNj6gdcxAMN1pS3KqCKbXya7AjSTNf5VJXEUySvSa",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fruit Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Tough Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tolerant Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Space Helmet"
+    }
+  ]
+}

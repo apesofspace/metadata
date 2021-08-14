@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1593",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmYVBMoFFXc2AUCKd9822qh8dgC6Sg6NXp8wXmAfDtgMrc",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Space Style"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit RU"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Improved Space Helmet"
+    }
+  ]
+}

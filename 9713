@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9713",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmWEbQuuDudNn8Pgz1RTeRvtYhscgJNbobz1nGCfWFBJwN",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "X1Y system"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ordinary Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Double Protection"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Space Helmet"
+    }
+  ]
+}

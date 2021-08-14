@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1237",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/Qmb8t3Pzxd6KQ65KYYd22aeoJxALV2AiMZxjdSgmqtLa4v",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Safety Glass"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Whistle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien"
+    }
+  ]
+}

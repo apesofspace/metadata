@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4202",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmXRZHsTqK1xA17DP1qqiL2bhAW2zQHGXcajswVkwxBcvX",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Fruit Style"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Space Helmet"
+    }
+  ]
+}

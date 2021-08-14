@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9425",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmPjxig9EK4w9r781jeqJcxnyKpagfKp5pJtkMv7qcoHco",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Safety Glass"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Cap"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

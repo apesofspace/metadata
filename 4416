@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4416",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmTZEL9ABCuxGKp1NyG6mryrQvtY35LEGTzGqq5XGhAebk",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Stylish"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Banzai"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

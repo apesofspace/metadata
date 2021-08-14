@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2932",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmWVBacVvn7jurmewDcmseqsywM2QteiGdi8owhAMHQFpB",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Vision"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Banzai"
+    }
+  ]
+}

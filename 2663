@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2663",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmUrb17c5fJ1hgyFBFfoZvU1q7VVEABrKpR12r89oks2Y2",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Helmet"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #8557",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmQXGbv4uvg3Z9Ab8Y54HSovbEmx4fChYJ8DrTsnxhJBTf",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Racer"
+    }
+  ]
+}

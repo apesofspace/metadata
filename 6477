@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6477",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmYFD6gFdA5Ac3VvmwW4chAfgPVoXSyf2AQT3jEz2aBBQs",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Yellow Classic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Stylish"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horn"
+    }
+  ]
+}

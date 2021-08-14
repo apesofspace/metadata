@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6224",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmT9zgEJL4Uh3CSTV7C87KcNcwxz3nhsD1MrVBduVSD94Z",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Fruit Style"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

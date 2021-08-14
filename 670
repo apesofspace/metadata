@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #670",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmV8qvebv1LNspqFyAbT1h1pR3zivtrUAPAcB6x4599ib3",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

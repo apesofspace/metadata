@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3166",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmV1fcnGs7EvzWCp6b8rGP9mNR6N957RAvqvKhEJp4SCNK",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Math"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captain"
+    }
+  ]
+}

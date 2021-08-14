@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1695",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmRT9Fus7xxStxYUCfpSMBD8w728qHAL6VhL1QvXjszxPc",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Golden Teeth"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Math"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dogy"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captain"
+    }
+  ]
+}

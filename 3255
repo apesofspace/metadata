@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3255",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmSHwEw3VzVP3u6wshG8CBWP4NWjZCarvPGaxDQ9C6AiWo",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Night Vision"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Improved Space Helmet"
+    }
+  ]
+}

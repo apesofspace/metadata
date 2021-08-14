@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3913",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmbffDQcaWGk1CkBnm2KeHwZgGsrab8t9UJg7FvfgRRQSq",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dogy"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2324",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmcmR8tjmKh5Fch54nyavc8Ko7xXMeKfM1aHtBfS3BEwbn",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Yellow Classic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Cap"
+    }
+  ]
+}

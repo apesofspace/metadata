@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3629",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmR55UewTS28vfgVo5aeFv7AX3C4YuxFyRb3YgTvv3ZgQe",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Knight"
+    }
+  ]
+}

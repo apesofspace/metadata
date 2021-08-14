@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2151",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmWfzhAsmLqFEqJVAKkqvXq69aK4mWbUyju6sJuyB5LxUv",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Space Helmet"
+    }
+  ]
+}

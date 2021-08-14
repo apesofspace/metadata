@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9086",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmV2BprB2sAjjnKUE52VWUPuRB4nFwa3gMi9jn5zRe64jX",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ordinary Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

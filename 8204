@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #8204",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmXk7Mjohr8MKuPJo4a2o2s7xHq9Ku1FgcwndChpBXa6GM",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Night Vision"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Space Helmet"
+    }
+  ]
+}

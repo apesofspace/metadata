@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #221",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmQth5uePQgVVzGBZSeUJddUnYCQdZAuhUD4jN3EirvdHG",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Vision"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    }
+  ]
+}

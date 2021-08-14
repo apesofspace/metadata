@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7229",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmZG79EpTFue9CiyxRjYH4GNhbiCeno39BLMk7GMiZp71u",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sunscreens"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horn"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5325",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmY4XNoJurY3k8KjTYzQN8WAuoztFzCh1BCerq8GVdVX3k",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Yellow Classic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

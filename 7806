@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7806",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmQTKv8VaVxweMStmR5kZVwtfTsHaNvEu5upn1qYCF6RX3",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Safety Glass"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    }
+  ]
+}

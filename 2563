@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2563",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmW9EneyN7S22n8VipUC6RiiuqJ8hWQYosC1gfc1DAFv5t",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Night Vision"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Improved Space Helmet"
+    }
+  ]
+}

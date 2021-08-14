@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3332",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmVn5GHAizSa45nE98qxS4EN4RZQZoiBmtL1XH136qoM2R",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Defi Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber Party Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA Space Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Space Helmet"
+    }
+  ]
+}

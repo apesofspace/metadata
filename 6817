@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6817",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmcKbfjnZBbmSVGgJ7bmmkDjwArxzRrK2yie2oEPBpT3pr",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ordinary Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Lover"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Space Helmet"
+    }
+  ]
+}

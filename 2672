@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2672",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmdCkJDJEvaf4YxDdWyEeBSgjWwuTskVNhUVaEX9MHRBAv",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Evil Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    }
+  ]
+}

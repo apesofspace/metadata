@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7407",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmdodS15jDAXYAFJ3GnAf8o3XYNGmrwtkqe1EXwWHHE6zb",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Vision"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Improved Space Helmet"
+    }
+  ]
+}

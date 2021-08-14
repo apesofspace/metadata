@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3252",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/Qma12di2vMcK4xx3MRLFP4Trw8trAzvw7rT9HWtqktTbLz",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Defi Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Doubter"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Futuristic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Space Helmet"
+    }
+  ]
+}

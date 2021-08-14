@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #712",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmPa6wHubJJnHPt7DhB2kpZxwcxWNVUvmweCPyApF5sNpM",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Tough Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

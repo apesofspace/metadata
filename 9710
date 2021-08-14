@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9710",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmeyTtqAr5q9BzCf1AhBurxNGLQUtRdWi2VEmC42tALmue",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Math"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    }
+  ]
+}

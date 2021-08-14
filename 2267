@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2267",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmfNaYtaaMsXVzFzBnd63oEKTP8hMZc6FTDhCkvTUFwiEB",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sunscreens"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Cap"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

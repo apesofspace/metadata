@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7436",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmezVwXz3LnXiziV4y3auZJWot29MLmpXumwrRhDPmViR3",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit RU"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Whistle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    }
+  ]
+}

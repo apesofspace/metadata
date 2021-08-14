@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2029",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmUkk1paesM6fdXA7PNiuWERLfCz1ESt3RBwDskjxrXgcp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit RU"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    }
+  ]
+}

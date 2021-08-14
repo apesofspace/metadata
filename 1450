@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1450",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmfUeAoVAxsGNUsEatxAMdFiCHFyTycPvqT3VWtuKY9nyw",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "X1Y system"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Space Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1044",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmfU3uE1K2F93zcAVpmNUSV7hFGpWV9KsbXf8QS5Mpkv31",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "X1Y system"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Jackpot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Memes"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bitcoin Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    }
+  ]
+}

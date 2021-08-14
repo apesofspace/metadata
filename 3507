@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3507",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/Qmcv5CPFM8krEwdvp28DKtFHJ9HtpZQopmfgEoERh5DKYM",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "X1Y system"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber Party Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Helmet"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7409",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/Qmbkw6ep3hQZqUpLEX2da47XJRUwVVN5dDmx31TgYdoXQR",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Safety Glass"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    }
+  ]
+}

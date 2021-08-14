@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3625",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmfHDWhNz5C8Gnc6Dy7Udkh295z54ukXCNsscGoaGLc6tk",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Vision"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Space Helmet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

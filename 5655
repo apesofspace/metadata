@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5655",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmYJqB676uxBjudHj1MoheahFU7HLYRKT3yv9m3uxe3SJL",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Space Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Space Helmet"
+    }
+  ]
+}

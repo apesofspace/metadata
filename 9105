@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9105",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmY7CyhxHn8FoYHg1QQnQqjtKwSNLnCWE6iXoa4yAAEYuu",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Futuristic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Improved Space Helmet"
+    }
+  ]
+}

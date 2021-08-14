@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3503",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmZDJy9ibby98naqYKxUj9nWJuemh3hfhAj74odMzQAija",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien"
+    }
+  ]
+}

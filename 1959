@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1959",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmRkuHTgquv7N3D5zq9CCi3GtF6fTrjDvVnJz3s4hwFVZi",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Stardust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Tough Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    }
+  ]
+}

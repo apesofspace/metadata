@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3017",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmeEUJBoCQQKh54qfTJzS4Rp2hDJaodQT3TpnPmsHHgSdq",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fruit Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bitcoin Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Racer"
+    }
+  ]
+}

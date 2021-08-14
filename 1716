@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1716",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/Qmad7Cmbr4Vpn9DoY1niZW252LZTSEMHWj4FsDmRCS3ifG",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Attentive"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Buble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien"
+    }
+  ]
+}

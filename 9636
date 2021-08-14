@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9636",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmckYimWqdzjBSTkgPJ6mmLiaFrCFEfm1pMVi9BVVmpuMq",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Attentive"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Safety Glass"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Whistle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Space Helmet"
+    }
+  ]
+}

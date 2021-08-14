@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #991",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmZevJSrTg1sane7F4cJUzgD9V5PWQB1qzWzwysP2ZrvJo",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sunscreens"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

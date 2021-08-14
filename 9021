@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9021",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmWPoA8T282Efii6H25q8pDxNoNJpVNWqqh1qbuSpEZrKj",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Evil Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Space Helmet"
+    }
+  ]
+}

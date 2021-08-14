@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2488",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmZXmtviB3dwMBVMWXbmFfd12dniyPqGifmUMdRNf3GeeH",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Jackpot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Buble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captain"
+    }
+  ]
+}

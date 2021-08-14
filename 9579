@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9579",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmaDRFrR5D7NhLyQy1UmbfRkXAWmgndNKqTywoBbcR6ZpG",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "X1Y system"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Fruit Style"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

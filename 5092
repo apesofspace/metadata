@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5092",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmcGwFJdc5pseeBzJ1862u5ezJ3pHaingVmXBbD2my9jBP",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Yellow Classic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit RU"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Space Helmet"
+    }
+  ]
+}

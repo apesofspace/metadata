@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2161",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmPTh7BJgicc8QAeYy8dysgR51kPf4tzip9AGmzfGNKy64",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Night Vision"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Banzai"
+    }
+  ]
+}

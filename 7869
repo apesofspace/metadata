@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7869",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmRWYbS8SKmimiSRksNPqwD3D6oNpwoTBMTEZuw3XNhPy4",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tolerant Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Space Helmet"
+    }
+  ]
+}

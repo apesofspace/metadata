@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3100",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmQr1LUFJaWdavcTGtkCDvWvMud6tpBNkJKoHcLghxgnN3",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

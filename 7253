@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7253",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmdmLyLT6Lug21cykWJu2AHhSsvXHa9peMwcR5ViocxNdV",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Fruit Style"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    }
+  ]
+}

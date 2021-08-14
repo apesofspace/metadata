@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4187",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmRF4uK1U7be439RXCjL53TiAG4Hh7uCeYVamT7EEFsPM5",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Racer"
+    }
+  ]
+}

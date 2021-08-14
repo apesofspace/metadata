@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2241",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmULYJHGuBVjzpuvxMcqDiM77QDwiGMhgAMSCn3xK6H1hC",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "NFT Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fruit Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Yellow Classic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Butterfly"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    }
+  ]
+}

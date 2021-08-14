@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #520",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmPAooZdSN9B7DJA76uj56YZPc9dLbMQpSKMCkAtiM4AyE",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Jackpot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden Pilot"
+    }
+  ]
+}

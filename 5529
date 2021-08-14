@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5529",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmTwqEtryvFjnhAERwz88RpWioKy2cLE5UXkM5o3uYucw3",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Space Style"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tolerant Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9961",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmXXDHRBNW58xeVDr89wf98bfvcKiYjyikCcWtkjd99J1L",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

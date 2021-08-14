@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1797",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmSc8LP7nUjMDUMJBViVJWy4oWbCUoUfApy4ZdcwsPzD3F",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sunscreens"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Helmet"
+    }
+  ]
+}

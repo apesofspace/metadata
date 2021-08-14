@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5718",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/Qmer4h9ayTiPevkKCJKr9rGzMALUaxtcthkoooczGdQqah",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Doubter"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dogy"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    }
+  ]
+}

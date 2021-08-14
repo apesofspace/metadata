@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1319",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmZ92zgQXKiYA89FdY6b76XRrQAdibQmYuva5c4pxEwG6N",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Safety Glass"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA Space Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    }
+  ]
+}

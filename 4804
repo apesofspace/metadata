@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4804",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmVrXSmWLKNWmZ8tyAwb5vasy5a5V1fN16HCLMSjeDH4TC",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

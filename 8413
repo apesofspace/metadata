@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #8413",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmZmUutpTsBkPoSYvHHLtpvWQjeZawF6fEvrnU1ieGe5oH",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Space Style"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Stylish"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    }
+  ]
+}

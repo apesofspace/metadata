@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2871",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/Qmb9c7MEhZWQBebtLsuy5SHwivXWyufgsou1VK7evi2AYh",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Doubter"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber Party Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Helmet"
+    }
+  ]
+}

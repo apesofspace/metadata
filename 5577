@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5577",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmTZwuXniR3BghwpGBGw7bwjpzEocCXXqBCfU5gkXdM1QR",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fruit Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Double Protection"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bitcoin Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horn"
+    }
+  ]
+}

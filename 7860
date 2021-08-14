@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7860",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/Qmdjk2M8Rb3WSuXKUXab7boTucTtLe4vvGDA3K8WPK8Rb4",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "X1Y system"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Attentive"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Knight"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

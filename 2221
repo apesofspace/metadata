@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2221",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmYUbvwgQQR7kxkUePMwGRVhVMbA8ZShEAWvLHmQCUGDfH",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Lover"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Improved Space Helmet"
+    }
+  ]
+}

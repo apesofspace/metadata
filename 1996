@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1996",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmfLkM86KWBPS6thmam4j1XokyrPAMKgvYXhC2Xg1jeqsn",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA Space Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horn"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

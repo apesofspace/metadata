@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1968",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmYYosXp1spWnL2YYG9hFu5DULYNC6w97dj4HpGyk4yfXG",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dogy"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Improved Space Helmet"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

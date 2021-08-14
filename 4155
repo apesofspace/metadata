@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4155",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmcEUr6YsuyKrSuSBhgaWMDVwyGsuAxRqbpCmjRaRq2C4B",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Safety Glass"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Space Helmet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

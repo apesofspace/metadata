@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1516",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmVV2UGi9UNK3jFpCZY8dypNcr5ooenjh5ZcCiRAy88HkM",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber Party Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7461",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmbgB82Uvm4wjC3uXSGWqmfiXpyqN3KbvdRe3KXSurT2v8",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Laser Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    }
+  ]
+}

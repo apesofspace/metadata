@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6957",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmVSZX5V5o8DQRarmVZGMbEhfyX7kaLmb9E2wSybk66Ev6",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horn"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9734",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmSGt3ExsmcHDYgiWEtD6XRsthrsSDtSJSCp4GE2QFtnqV",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "X1Y system"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tolerant Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Butterfly"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    }
+  ]
+}

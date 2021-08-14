@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7324",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmQSGW7Bn5MuD1XHcE66zQ6TwEpekjDDPczrwE5wVsmjVh",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Space Helmet"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

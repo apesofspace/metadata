@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3964",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmXZ3bDaFttv83zVTfdt9KrHV6Zsqomh2KdxTo3SHfhXrZ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Stardust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Lover"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Memes"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Space Helmet"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #413",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmUoomSKTUobZCJSTsUReRAuu5bX5ku9ZrYSTDgWf6ukgq",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Attentive"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Lover"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Space Helmet"
+    }
+  ]
+}

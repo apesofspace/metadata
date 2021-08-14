@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #8712",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmYjXR4EDKFZbcChWyMxUr13nX1J9JCnbvQfL8Xf8RKYby",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "NFT Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fruit Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    }
+  ]
+}

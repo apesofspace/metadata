@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9599",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/Qme8Gvk5oAqbDPWWpsXjHPvtP3H2FjkBp3keVr4Fs39F66",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Yellow Classic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

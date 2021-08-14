@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3441",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmbjYAcLfmePvn1pNyV2edYkeZmNXH7M8u6KGxqQJtWcd6",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fruit Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Futuristic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    }
+  ]
+}

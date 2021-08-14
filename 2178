@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2178",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmZtvvPXBFC81y3Dgnd78GZWcGcsKZmmhD5zDrwWnZfSbh",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Futuristic"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Buble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

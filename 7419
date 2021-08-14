@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7419",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/Qme6bXVbyh25QFvZ2BjaJSHLiwzRrRbp57SwRb9KaR1rDq",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "NFT Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Space Style"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Knight"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6916",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmTk9s1Y4CnBDpSSEE9Bsh5P7eyHDLzBBiGBKxeZaBDiRf",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Frogs"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Whistle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4699",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmXYiXVTQZeM8fAcREndKG8gB91PNq3678a1GTjJRmdMWx",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pirat"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

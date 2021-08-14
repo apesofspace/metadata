@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6496",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmebMQzszXkQhmh6yUsmnYceybBEno1GqMs7qiFyNE3j25",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Knight"
+    }
+  ]
+}

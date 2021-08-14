@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5346",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmfQLqfrvShzq2XG2qYNxFf6xPJeSRtXz31eo1V1Xb7CRj",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Futuristic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Judge"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Banzai"
+    }
+  ]
+}

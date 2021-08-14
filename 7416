@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7416",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmUYrRVfaucsjgGC9Gqp8XgXPvKt23svinZWiWo99taRLu",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bitcoin Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Improved Space Helmet"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

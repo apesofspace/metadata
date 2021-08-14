@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4894",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmabAbFxmp8jHrFz2vJAb1EVLvn6jGAhsjy3HK8PBHPXUh",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Space Style"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Stylish"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Whistle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Improved Space Helmet"
+    }
+  ]
+}

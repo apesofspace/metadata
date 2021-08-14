@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9546",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmXNbzYXHu4czs5ULPgufPqnvkr1DJ5sNKK9XAaRzrD2rX",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Butterfly"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

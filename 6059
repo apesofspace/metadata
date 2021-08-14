@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6059",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmQpo23siZJUDZhrhMiqdDdPXpbgeAQSozLJxVAwprQXxc",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Doubter"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Double Protection"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horn"
+    }
+  ]
+}

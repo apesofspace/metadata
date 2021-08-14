@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4176",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmU3SaJ13ZhKrjAKw5Jm5HQeUPKPDrRYeUSJ7x34K1cNEk",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Judge"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Buble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horn"
+    }
+  ]
+}

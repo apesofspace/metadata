@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3380",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmNR63SUWqafgDPx8W519R7kAvjcHyqKArwjXDmNHCETHF",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Rainbow Teeth"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Banzai"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

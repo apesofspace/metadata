@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3112",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmSmcmb9KWtVf3Jqy3YoRSXFjzYL2zSYog1CLc8k8GfZs2",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Frogs"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Memes"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

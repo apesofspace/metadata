@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2270",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmUr2uhDQ74C4H1ae4JEbuaggZcjkDK7m7UzsLeoFLsMuH",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Tough Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA Space Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Helmet"
+    }
+  ]
+}

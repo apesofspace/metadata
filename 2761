@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2761",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmaudZYfAH1HvQQ1susuGdHofFhQUEDNhxKZCe4VHMiPfz",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Golden Teeth"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Safety Glass"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    }
+  ]
+}

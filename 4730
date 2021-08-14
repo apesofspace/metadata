@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4730",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmVLXMCtmnnhB2TrVia75arUnEnLe31Xhxm1iiU4zEJm5t",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Space Style"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Memes"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Helmet"
+    }
+  ]
+}

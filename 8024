@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #8024",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmbbMRNwg97mawCUGE83dEKEAB2aPtMSbM51QNbpmQfJBP",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tolerant Flag"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pirat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    }
+  ]
+}

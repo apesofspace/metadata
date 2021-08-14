@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #781",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmP93BRtJr99znkJPgpHr5TTjeruLkaDjTXrWd4hkmdeVS",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Rocker"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bitcoin Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    }
+  ]
+}

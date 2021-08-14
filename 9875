@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9875",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmS7Nk5jYDCYaQ1wiN5m1ywa2tSKvWoDDdAi3ypXjkAD4Y",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Night Vision"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

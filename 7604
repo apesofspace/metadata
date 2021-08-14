@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7604",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmSW2aXcwb1d1WXN5nLDUQeQXQj7ui2jyZBpxDxKAmcszq",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

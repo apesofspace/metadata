@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #742",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmehfhfkBaYgLPsM2V8xMHUP3JArE6D7zoTmPLpYEozqvU",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Helmet"
+    }
+  ]
+}

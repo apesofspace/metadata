@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2972",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmabNicP4LDXjDfunA6fWNsA5xnjBuRcZN3cHU4ngK9rqA",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Tough Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Space Helmet"
+    }
+  ]
+}

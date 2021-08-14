@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4958",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmXhsKFZMdmcg61dqD1Q2qShFC8R7MzWeHDHjqF8fsCJsR",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Doubter"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sunscreens"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

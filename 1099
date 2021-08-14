@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1099",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/Qme2BqwgMTRnu6Gx3sJfj6idLNYfMEfqpMC6AJjoqWuw5B",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Space Style"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    }
+  ]
+}

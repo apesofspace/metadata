@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #8934",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmeNPR5oUNqbKUk9cy4G41HU7Yseup8PAAYpMWATWqaRtk",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Night Vision"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Knight"
+    }
+  ]
+}

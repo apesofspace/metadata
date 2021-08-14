@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9923",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmaaFVofrhSb4ky9ez5Ewqu1TG732tELo873unNPGv4wMe",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Stardust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Vision"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Rocker"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Helmet"
+    }
+  ]
+}

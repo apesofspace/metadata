@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #272",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmY86jKMRLELrEUS9QR4nkQ7TpVVkuNi5Qgtxqs532EBCB",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    }
+  ]
+}

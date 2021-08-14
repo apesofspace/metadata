@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6244",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmS5VoyDwLbAZEvAQpUxP7aJAridTyQvuMXi81xrgGsJYo",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Lover"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit RU"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7320",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmdKjTYaPkreTyn33WK5VGJD4CWUtVgGGHGNQpYjCbSrGB",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Rocker"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Laser Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Space Helmet"
+    }
+  ]
+}

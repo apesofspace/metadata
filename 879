@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #879",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/Qma1f1YJUPt5K53rfJRwMAV8kymh59s5mWTBvo8h5uwhGK",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Tough Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Whistle"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6267",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmbmuzAZgfTGximKLsp9wYjG4hWqTdzxGQUAMfy7wDdBGr",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bitcoin Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7842",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmPWspPEkFHfscHEGv8Yvs8b7s2Cc9dUm61SfTxAubJd9m",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Tough Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Butterfly"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

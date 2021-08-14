@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2503",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmQdmnjtNPSygmi1uqMxV9aZEHCGSFk4AwfK5enPQ3K6W2",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ordinary Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA Space Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Butterfly"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Space Helmet"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5802",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmT9FCfDo5Kjwt4hVo8QqSzCnkFuLjV5eyAWuiM3rLWYsV",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "NFT Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    }
+  ]
+}

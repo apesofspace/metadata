@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4483",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmeRYHbT3Yve5TF15b2KFBJtq1tfQ6bZkATUrJQvEAD67d",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Attentive"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Tough Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Whistle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien"
+    }
+  ]
+}

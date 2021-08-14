@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4090",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmV7XcKDurZsnJbiUE3cqdbnknZhFkvU7zhVciL8KPqCvs",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Stardust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Doubter"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Frogs"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    }
+  ]
+}

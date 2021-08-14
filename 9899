@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9899",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmR2bHLsP5KgHR9tN5idfjyR7GmQxUToESwyZF39V5uLYK",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bitcoin Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

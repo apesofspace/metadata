@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1509",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmT7tK1UMsoh3Z4B71fBEpXxfhdNhSXW5VuC8EDtY8FPdi",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Lover"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    }
+  ]
+}

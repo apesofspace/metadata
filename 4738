@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4738",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmSUQs7DVP2RoHHa6GY5SvSTu5bWjBGKbrpVaWFHfwpvzA",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fruit Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Space Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    }
+  ]
+}

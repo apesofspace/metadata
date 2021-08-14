@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #368",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmeSRHJiiXBu5BJL4U5s1JpXemXjhRFUSAMgQozEy2yHwV",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit RU"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

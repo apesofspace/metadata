@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #8750",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmWeSvJgwLXnJoKGr9s3D8YVZ6sk5QsjjDcFmEvd5Hg3Yd",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "NFT Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber Party Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captain"
+    }
+  ]
+}

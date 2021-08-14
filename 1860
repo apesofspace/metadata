@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1860",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmVLZJwY2NeT3DkCeSuoVa1bxRuiMyC1RFRjHJSEWh31M6",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Racer"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

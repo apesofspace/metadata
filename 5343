@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5343",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmfFBci54TpSHwE8Prys5xC1QPFwpSGdBrurkHXjwD9fTn",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Defi Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Evil Robot"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Whistle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horn"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

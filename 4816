@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4816",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmectXCncJyuR52yp36A6ufJ9D2JQxVzwoe7HuSKbmYMto",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Futuristic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captain"
+    }
+  ]
+}

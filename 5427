@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5427",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmNM74NqVPcNkVCJVpPzuk9bSnAte6gtXWSvDbAryfowNa",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sunscreens"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Improved Space Helmet"
+    }
+  ]
+}

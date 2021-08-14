@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #410",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmatDn7PQLW91WmuEtqpAha2xPSxZ3FRYvDffj2GxRQmXm",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ordinary Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sunscreens"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Helmet"
+    }
+  ]
+}

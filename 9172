@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9172",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmeAgVUJ5szyc3NRQtVVhH7ja4UKUr3H8yEiAh195Phnqz",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Defi Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Stylish"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Laser Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    }
+  ]
+}

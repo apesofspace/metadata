@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2229",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmejMDbXfEvth1BWSMdt4P6ffJrEAwiwEKZXKt4fVgPZp3",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "NFT Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Safety Glass"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Buble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    }
+  ]
+}

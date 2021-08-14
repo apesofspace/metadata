@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1580",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmYZJsd5fr2m7nWx6ChcEF4FmTAi2GsAmS6ZZ8Hi9YLTx3",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Rainbow Teeth"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Cap"
+    }
+  ]
+}

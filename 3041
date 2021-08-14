@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3041",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmT7LfEcaoPXckmY4TcLgfL2VvSorqb5ZuWKq9Ypnte1b9",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Attentive"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Gold Punk"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Space Helmet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

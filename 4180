@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4180",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmV1ZTqVXC6hYgh9NsgNnfmoUwKN8sVV66zXmqhLMe3mDw",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tolerant Flag"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    }
+  ]
+}

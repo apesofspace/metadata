@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4746",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmamLGY3aN8JCZCMH1h6GzGEgsgU6xXwGrxEreDeghmC4r",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Stylish"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Whistle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    }
+  ]
+}

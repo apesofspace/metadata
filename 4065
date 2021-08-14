@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4065",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/Qma3HjaXg6dkuWDb9FgUwoFL6S2WzJqsorT42jZr3yqpEG",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Doubter"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4743",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmXD7LVnUc879nQHRjtnFsmDxR5oeEcEVvSNudw6rcZv2e",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mutant Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tolerant Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

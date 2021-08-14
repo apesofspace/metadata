@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5587",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmemzFVbfGZ6x5v5FrgpjoMiRBv9gopEg5uB6iTHp9VjcL",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Butterfly"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

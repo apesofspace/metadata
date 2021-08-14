@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #8073",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmSJQwDmYLhwq498zDYuL9iw6w9cLQ2sC5cD3AYTotUGyw",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Evil Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Cap"
+    }
+  ]
+}

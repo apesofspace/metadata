@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #8360",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmckWenNoxp2VBc3USohBJDE6eMyqXdDTsh6jGX25S9ojx",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Buble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

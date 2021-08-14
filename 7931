@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7931",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmR3yNdC4X8tSNY8pQcHtwHfdgXsYssUFbN1KkJZnmeBff",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ordinary Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Rainbow Teeth"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Futuristic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Buble"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

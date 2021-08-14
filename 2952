@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2952",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmW8rwvWSaArAEepyXEsKodHT9zCvbUHZd8M3LRxAYz782",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Safety Glass"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tolerant Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    }
+  ]
+}

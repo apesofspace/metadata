@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1404",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmanQ76hNNDJJBW1SxdKBzP7LmC1ML74UnvWnMKkmuhiqD",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Attentive"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Jackpot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Space Helmet"
+    }
+  ]
+}

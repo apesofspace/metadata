@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5959",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmaaoawnTZgN3faB7XFpSzQLpvFh3hF6ge1hWdrbmXP6DN",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

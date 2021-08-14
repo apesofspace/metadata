@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2290",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmanM2H8y2eU5qqhAqBP4cshsoTsAptH5uvLp8i6QY8ceR",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA Space Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Helmet"
+    }
+  ]
+}

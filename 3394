@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3394",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmX7L5S9uZfdQTM6fXdxnUGpsPtzTnWZmCCWgomWsxhbNW",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tolerant Flag"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    }
+  ]
+}

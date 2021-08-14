@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7926",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmT3DDu6WuuHHrtZ6CwY2JmmbpZKcZdA2dbLY81iMS6Tvh",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber Party Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Memes"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    }
+  ]
+}

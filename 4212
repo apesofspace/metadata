@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4212",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmdiXZS6PfaMNEwRT1qDbp6ahxw1XNZpYpq5wmcaZCoQye",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

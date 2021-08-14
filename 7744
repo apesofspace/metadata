@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7744",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmScFb9UaKin36suH78DVDUwqmwM8mPZvkJuBpTCF1zcqw",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber Party Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horn"
+    }
+  ]
+}

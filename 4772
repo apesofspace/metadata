@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4772",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmY8y5euSBxekqC7AmhCjHTnzzCxbcVrE97uK9KEk5c82y",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mutant Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Futuristic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Space Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6649",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/Qme7B9iFVbWJbjrv2oruY8H5RQKQeeZqw6bRa3Kzc7NG1z",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

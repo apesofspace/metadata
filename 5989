@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5989",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmRYYKBdTCsuKd9t2n3DfYZunCEvBUqAtmAg8ET6Hviafy",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fruit Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

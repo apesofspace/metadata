@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #124",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/Qma3176wN2BN4jGRFE6MXPsk1DEGiiErLVjHvxfnKnAaKi",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Space Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Evil Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Space Helmet"
+    }
+  ]
+}

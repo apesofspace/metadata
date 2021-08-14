@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #8158",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmS23LTo67dMcaRJeceyS4aKperRu8LVcDJ6AZDrbtpVa2",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Safety Glass"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

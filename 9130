@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9130",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmX6UNXyXbpRJNyhCGacyuEoKNk395SUKGhcHnnKeHusdy",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Buble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Racer"
+    }
+  ]
+}

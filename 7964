@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7964",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmatbHFN4HYbFXkZe2HcfKYAykvTS6mA7PXxpmsT4Bwhn4",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Lover"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Improved Space Helmet"
+    }
+  ]
+}

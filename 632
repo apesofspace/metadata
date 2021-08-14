@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #632",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmY736xUAQHwPXwqXvC9VMjp8EDcZxpNVv94HJg64yL8xM",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Space Helmet"
+    }
+  ]
+}

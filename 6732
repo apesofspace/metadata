@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6732",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmR1Vq4oDTjZNDU7qAFhzg6feXQKNfP5TJBcRcM4FtjiD9",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Attentive"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber Party Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    }
+  ]
+}

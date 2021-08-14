@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4116",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmedP6D2oFwrrBk95bF5x2m3Czx5hfov2fvk6u86t9fhXE",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Improved Space Helmet"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

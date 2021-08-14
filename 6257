@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6257",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmejCtXUdZhtnARsF9TadHPCV9XyDYRsVJofNKGGe9C9qt",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

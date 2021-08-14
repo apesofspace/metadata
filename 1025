@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1025",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmR7eWKnNnphcZmmS2u1524PqttpUkY6UVNcQfKwUSe7p5",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Frogs"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

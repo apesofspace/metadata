@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #172",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmREy91jH7pkdwBpBmCNwYQLtE65BZNaheAfjybfSYQFEg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Futuristic"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Improved Space Helmet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

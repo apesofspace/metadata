@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1171",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmU7dQ2Gt7iMCn5FogrcZHbnwURX6R6dYWGh3NyodWVm4A",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ordinary Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    }
+  ]
+}

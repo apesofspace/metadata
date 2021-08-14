@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3129",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmW3zfrDKFj5rtGFyUJbx5wvSBTNweieioR3mTVTeoADbP",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Stylish"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4817",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmatJGHwPHDuQsnCafYMC4rJATFwxD8BrzyvLmfTtoBKic",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Night Vision"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

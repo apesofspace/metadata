@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9990",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmedBVD46yDDmuoA8HTPUR81W9ycNv2ehd1vBMZU36rs1A",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Futuristic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Stylish"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Space Helmet"
+    }
+  ]
+}

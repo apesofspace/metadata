@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5195",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmViVQrwTaVeNLSREjxd1iNFgjUvG71DcetAkiYXS79wzw",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Night Vision"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit RU"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Improved Space Helmet"
+    }
+  ]
+}

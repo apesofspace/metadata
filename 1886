@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1886",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmamnD8w3XBwTxMiujQQ3y26hUBZGzFxNAgaG6JCbs1A21",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Tough Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

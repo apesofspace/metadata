@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1772",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmarrBgr23iiVGxxK3CRLy4BdbAv1QKUEgsnoy6Xvybdt4",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "X1Y system"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Tough Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA Space Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Space Helmet"
+    }
+  ]
+}

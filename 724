@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #724",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmejNcRrLeMQx9XHKvgH6wZoFmRvpuYCbkTbVh6nPPLRqW",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Attentive"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

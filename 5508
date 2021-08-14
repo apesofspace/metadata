@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5508",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmccveasCoT2xjx4Cm9pe5fCMoZMzumP5mK6BykcBm3tzd",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Attentive"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pirat"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Butterfly"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    }
+  ]
+}

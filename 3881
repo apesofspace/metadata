@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3881",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmehNhg6AS2cpWRoCHZebBVLvkhQkckKXw9TcQ5jV3gfQs",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pirat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Space Helmet"
+    }
+  ]
+}

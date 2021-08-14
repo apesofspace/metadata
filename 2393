@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2393",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/Qma1chEdbxG3Qk369KdzQmXYBVP2z9wbUBmQ3rm52rUpF4",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    }
+  ]
+}

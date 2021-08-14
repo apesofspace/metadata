@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4942",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmegHNnczmDqLD2Gt3T49xdqFWWssh1wTkr1DD4G7nptAD",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Stylish"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Racer"
+    }
+  ]
+}

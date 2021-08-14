@@ -1,0 +1,39 @@
+{
+  "name": "Apes of Space #9777",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmdzLBrnLNsZJUQV9WGPsuS6qbv8Qa4VnWj7ZFfvwebMRv",
+  "attributes": [
+    {
+      "trait_type": "MightyTwelveCrew",
+      "value": "Pishgam"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Attentive"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Night Vision"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

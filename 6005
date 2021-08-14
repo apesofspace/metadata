@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6005",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmX7h775r86nqP56CVZchCH533vw5JCjVwGSziCFgiWxb3",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Math"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

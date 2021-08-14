@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6792",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmU57m4286PmwhTrszV9zvHCCHcEagcFryeZSAja5NW68n",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Stardust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Tough Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    }
+  ]
+}

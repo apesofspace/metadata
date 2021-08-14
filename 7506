@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7506",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmViMQoXWSsN93vS6mkiqcWXi1sQRkUkHYkRPtH59qkdRi",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sunscreens"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Whistle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien"
+    }
+  ]
+}

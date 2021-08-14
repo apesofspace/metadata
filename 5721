@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5721",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmP2Nq7CUFPKLRuPvKo5DVzVRbvMUHptzXKANwo154hACQ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Jackpot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tolerant Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Space Helmet"
+    }
+  ]
+}

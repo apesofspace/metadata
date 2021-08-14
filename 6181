@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6181",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmULpDHAi6S5C84ueiJpPcDt7yFmHyNo7XHdaax4498UAp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA For Training"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Whistle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

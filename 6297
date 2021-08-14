@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6297",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmadgZvjEiJyrNZseSGG5bMJhu6CE3xGRpN4HtidFFzy4w",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ordinary Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dogy"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Space Helmet"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

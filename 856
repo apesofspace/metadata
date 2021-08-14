@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #856",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmViHvr1g9H2gETQWvMaoaRhFTLFG1zHAQqW6gPwKZb2ro",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA Space Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    }
+  ]
+}

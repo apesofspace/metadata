@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4286",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmP6dsEzw7xTuorsRnz1RF9q5XqHFTpQQqDKP5H4WdR43T",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Fruit Style"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA Space Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    }
+  ]
+}

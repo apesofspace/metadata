@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #8232",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmX52g36rP2R6mUKvevBVjujHzgjBQCD8M4SsNc6xKYPcz",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Vision"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Racer"
+    }
+  ]
+}

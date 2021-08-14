@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1604",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmW1Jnp4MiBxd9R54hZVDQhE25YijSdW9MzyUHV6XnXbhi",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Attentive"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tolerant Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Improved Space Helmet"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

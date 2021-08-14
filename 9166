@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9166",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmP3TBBDuq9557DcSP9jakHkyjt3JdSTP4VEuJhVFu7yEn",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "NFT Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Helmet"
+    }
+  ]
+}

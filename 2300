@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2300",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmboyjSQUHWX9iTmYta2u919n9B3uABDYMaQjLkn6kkoRT",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ordinary Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Yellow Classic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Helmet"
+    }
+  ]
+}

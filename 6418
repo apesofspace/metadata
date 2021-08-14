@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6418",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmW8rWxGpw1G3YPM5qNGwnjbDnFtgCAVqGSp4TYzCT5Gxi",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber Party Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Improved Space Helmet"
+    }
+  ]
+}

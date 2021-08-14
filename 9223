@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9223",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmabYrWhQSsD85M7NZncY5gZQQ1tg2WETo9fmj2Cmm1VNm",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Evil Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Space Helmet"
+    }
+  ]
+}

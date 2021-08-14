@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6838",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmScAvxCusPePbgePps1zLodMpPJAb8G94sYsYe4ZVDWYj",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Math"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA Space Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

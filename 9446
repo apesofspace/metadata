@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9446",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmatiZ8mQYxe8PfKvrhKZgzK3tetRPLGofZ9k4dw9mDiNW",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Stylish"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Space Helmet"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #405",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmarSsbM7Kos7ABa6UUQj1pwNDVenLHD5GNGg6XKcRuA8U",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "X1Y system"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Attentive"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Yellow Classic"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

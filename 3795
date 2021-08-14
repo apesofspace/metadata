@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3795",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmS7yyAq9yRr1oc1MZSdKUSrCwDvyarNo6qL45pJBV3pST",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Tough Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

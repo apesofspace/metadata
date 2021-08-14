@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1631",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmU9Rksy1KVKh6KZQage1axLtwpqiBzXXpVmdkboYhVDtS",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Doubter"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sunscreens"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit RU"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Racer"
+    }
+  ]
+}

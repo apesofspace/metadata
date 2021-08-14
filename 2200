@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2200",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmP9kFi8a4PwW9CJpEASzymFtqhJ2TnLPTXPqV7PEf5E3a",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Tough Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Stylish"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    }
+  ]
+}

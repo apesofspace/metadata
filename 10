@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #10",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmapysH4ZhqZymDVK3xsV41khm2KRXFdKQcKD2DQPdCPXP",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Math"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Judge"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    }
+  ]
+}

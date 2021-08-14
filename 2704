@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2704",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmecyTEqtEDARrb2keKeL1dy6c5TduhvZjoLvy1b2disJH",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Vision"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Knight"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

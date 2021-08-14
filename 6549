@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6549",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmduD5BqhkPw9YJycp5YWJ5SQCNkrgkAarNy1qrqPUm6BX",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Helmet"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

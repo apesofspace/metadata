@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9452",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmViQHPnV3QaHJDqB4Lpvu7UYr4SGR21eriUdfgtE4PD7y",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Defi Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pirat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #732",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmViJr7zcB8RkAXYjqJEMXF45eyy35iz9fxj13P3vFK23P",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horn"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

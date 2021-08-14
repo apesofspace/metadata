@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6809",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmehwTg1BpE2jQypkhPVZh6rnCZjyjBHNARA9oyZVbJoas",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ordinary Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Jackpot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Space Helmet"
+    }
+  ]
+}

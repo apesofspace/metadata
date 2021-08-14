@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #891",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmajWFkSbYkvaoaFAwnNrE8s6BGt5vtNpePZwpH5GXj3af",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Rainbow Teeth"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tolerant Flag"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Evil Robot"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Butterfly"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9531",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmarNf6KjgGTwTqJcrryjWjDGRCmMyQK6C9db36CDQSD3R",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Lover"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien"
+    }
+  ]
+}

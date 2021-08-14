@@ -1,0 +1,39 @@
+{
+  "name": "Apes of Space #3199",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmSbb8Kwiyr7kJz2GNjf1vBwK8D9TNr9Vv7fiAYfMJBJQD",
+  "attributes": [
+    {
+      "trait_type": "MightyTwelveCrew",
+      "value": "Sam"
+    },
+    {
+      "trait_type": "Background",
+      "value": "X1Y system"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Buble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

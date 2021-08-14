@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5375",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmexoorJJ2jUhDCfwf3QsXoUU3E1XDW45q5u9Lcikj6d7E",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Defi Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Space Helmet"
+    }
+  ]
+}

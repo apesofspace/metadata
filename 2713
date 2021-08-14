@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2713",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmepRdDdafxA1xs6FuxD9ew6jJEZD9NGHZrEw7jqz7WRjU",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit RU"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

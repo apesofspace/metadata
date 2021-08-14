@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #66",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmePMojZb1TZsRGkmWCnB32xbb3NoSyZftUeCzToLSBiCB",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "X1Y system"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Night Vision"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

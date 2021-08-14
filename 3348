@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3348",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmezpLVGhi17PuDzbxb686L3FqpHctDBSFEfg5uiTNERNA",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Double Protection"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Memes"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Space Helmet"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2024",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmejQwwrv6Z4F1S1h8CDWaeJyjG6pm2Qc1bYM98ANvKmbs",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

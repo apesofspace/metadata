@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #8259",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmekBGgwK2B5mqienmtvFt1xJQEpckPaouRv9ectUGXDaK",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Memes"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bitcoin Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5981",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmboioyA2Na4VsNc4Est4b1HJkiJb4nfr9NCGtcMNgTUS5",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Jackpot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit RU"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Buble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    }
+  ]
+}

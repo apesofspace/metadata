@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3591",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmepLrZRfpUWLZQzm9L3WwkB1UUTzC51EdXBXa1YaDLvQg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Vision"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Cap"
+    }
+  ]
+}

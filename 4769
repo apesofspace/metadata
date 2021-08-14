@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4769",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmabUPzQsUCBeKUSkEMRpC7ztpuJQDVoUUa21SuCpbZwQB",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Golden Teeth"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Yellow Classic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien"
+    }
+  ]
+}

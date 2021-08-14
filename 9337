@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9337",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmehxHgFinrARoKkT3TqC4NaKSeY843S4f496y3hho6k5A",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "X1Y system"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

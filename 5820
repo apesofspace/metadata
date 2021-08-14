@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5820",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmauWVCZS6moey168K1DB97qfje8V1Ju8Z3CYtSXNkm2aF",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

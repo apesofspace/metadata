@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4229",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmczeoNWRnSjv1UG4XUEPGmyjYLnhkjSm4GRv53T4SA8c2",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Lover"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit RU"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Helmet"
+    }
+  ]
+}

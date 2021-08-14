@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3832",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmanVX1RoKxgTTgMGudn4H2KJg6Y725t9Cxo8WiXWMc2gU",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Double Protection"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Apes of Space #8375",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmXoB8U4UbTNPkFezugP2taCy3XWS2Q7NEE6Ssz2yd3Da5",
+  "attributes": [
+    {
+      "trait_type": "MightyTwelveCrew",
+      "value": "Spartacus"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Butterfly"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #8648",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmczEvFMnKYMpazkno9vR4roFRRyyzU1vDEep2YsFK5CaJ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "NFT Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Double Protection"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Space Helmet"
+    }
+  ]
+}

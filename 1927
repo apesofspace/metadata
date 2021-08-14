@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1927",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmapdkobdND33rFGievhWp4LJ2soFKzVY7eh9H34bkek8r",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Space Style"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horn"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

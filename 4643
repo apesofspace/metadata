@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4643",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmarSz35Snve1SxsMm97MkRpab8qfkQb75NVemWfhYPnSZ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Helmet"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

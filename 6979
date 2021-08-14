@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6979",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmecwgADfAToSNuJ2Ef8cNz3KefuQwfUwXoLKrpmFYMQyE",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Futuristic"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

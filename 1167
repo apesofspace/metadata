@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1167",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmduEiYsM2ZHdM867wz4BMFL95MVGxAqnKt7jUBbzW8qvu",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Racer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3824",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmayiSk3xVmndzD3u6xMWDbsmPcXrg9QentvBYN7f7huST",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Rainbow Teeth"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Yellow Classic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

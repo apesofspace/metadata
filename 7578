@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7578",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmetKBTrcQiqY53CsxtHd9YtbS7nQkzUFd1WoYecnC6NQS",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Buble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    }
+  ]
+}

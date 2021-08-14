@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7259",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmezM9otT4K5LPuYmddjWcFSaGFQxX4SYpn7M4w3LcqjQZ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fruit Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber Party Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Butterfly"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Space Helmet"
+    }
+  ]
+}

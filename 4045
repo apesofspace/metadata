@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4045",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmagVwLW5Skf2MemJCq6Q7KypoepAB78UcWMLVNtZaEwQx",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tolerant Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Space Helmet"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

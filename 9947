@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #9947",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmertTMguQqcG5vmkmtKvcVRsVvFs7sgi1HiQm8kkW53SX",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "X1Y system"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Improved Space Helmet"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2826",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmadvMwSFzxrJP4DUNDT2SFikQkNEJiSatnJqnbE5qEKLC",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pandorum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Tough Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Rocker"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Space Helmet"
+    }
+  ]
+}

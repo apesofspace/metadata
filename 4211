@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4211",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmendYQ6NGJNEbtVL4xvUY8W2D8bXMS4DVapcMjZqTcUzc",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Yellow Classic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien"
+    }
+  ]
+}

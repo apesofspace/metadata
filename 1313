@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1313",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmURAFN34h2KXozMQi44njoNuuQjK3VCrGfh2mQMoR6eix",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Evil Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Knight"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": ""
+    }
+  ]
+}

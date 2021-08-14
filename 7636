@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7636",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmadGZb2toqRVsg7PFFH7abDy2DKWaoo2URHHpdWmNd5M5",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Gold Punk"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Banzai"
+    }
+  ]
+}

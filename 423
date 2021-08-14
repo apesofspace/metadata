@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #423",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmURrWHUE1imKUAPjMX74BLjzMvrUinLvRsnxobqkUtc2g",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit RU"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Whistle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

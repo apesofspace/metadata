@@ -1,0 +1,39 @@
+{
+  "name": "Apes of Space #1333",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmYdGoFNe9kVXimXeQLpefq2DZRHYz2wiEcY9UPfqwqnso",
+  "attributes": [
+    {
+      "trait_type": "MightyTwelveCrew",
+      "value": "Albert"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Attentive"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit US"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

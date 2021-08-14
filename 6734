@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6734",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmasWeW7fAMjjD4wQicYVyXGwiXU1ZCAxu8yQ6dBa33YET",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ordinary Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Math"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dogy"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Improved Space Helmet"
+    }
+  ]
+}

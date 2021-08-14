@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #398",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmStg48CGKZ2qJGT78dDjDREZNskcFZwEUjrMrZzjE9hnw",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Terminator"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    }
+  ]
+}

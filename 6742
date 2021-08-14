@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6742",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmePRvKtz7hC6KjEFBYnua6KxZtzYtwZeMXTzu3Cvs7i5M",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Lover"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "NASA For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    }
+  ]
+}

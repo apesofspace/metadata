@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2490",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmScnithd7Y3NV5n7SmvuXL83ZHRa6nWwMKeoThGHfZM3W",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

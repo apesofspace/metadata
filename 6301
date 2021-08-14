@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #6301",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmafxjgjT5Zguhac8pbjyhYTA2iCUxfoEJsfkRH9tEr3Kx",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Attentive"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    }
+  ]
+}

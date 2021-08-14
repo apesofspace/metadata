@@ -1,0 +1,39 @@
+{
+  "name": "Apes of Space #1113",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmTCDrNtT5nA8Wsw11AHinp2ZsLvyuZqDTZPs9c1AEyaRL",
+  "attributes": [
+    {
+      "trait_type": "MightyTwelveCrew",
+      "value": "Rafiki"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tolerant Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #8744",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmREYs1yW8BuhXZiMWa4Yhjh5JrcfsEvRakt3KGnBpS9Tn",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Yellow Classic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dogy"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5594",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmStvr1uivJopG36rRdaFstAE9p7bbVJmtEEGx3e9qNS3Z",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tolerant Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Worms"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

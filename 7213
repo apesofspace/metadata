@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #7213",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmafynwE7Kk8aeUeC1Ma8xCRqyo8muAveokJEG1nbxiTma",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Doubter"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Math"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Judge"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Space Helmet"
+    }
+  ]
+}

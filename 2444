@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2444",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmciBbzGyF1Nes99ir7id6ZGv9FwvWPJ2sazC8EkJfceyB",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sunscreens"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Judge"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NASA Cap"
+    }
+  ]
+}

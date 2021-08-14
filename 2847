@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2847",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmURkuFqWGW3bBp9446nti5619WUjm6HJtt15ztnb3UTke",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Racer"
+    }
+  ]
+}

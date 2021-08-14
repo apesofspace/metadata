@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #8331",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmarqpfbGyC7hPiyVUGwabs8dkh3gs1xyRhupwZc7DquiK",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Money Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

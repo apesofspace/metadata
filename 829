@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #829",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmemiGwnVX67G22ysB5QvEHR1Ryjopr3GBQ3yrZrSyy6sr",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Rhinopithecus"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    }
+  ]
+}

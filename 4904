@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #4904",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmegT8jwAvmU8JiT7dBAsun829Pa3JFcohms4FJrduRoEd",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tolerant Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horn"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

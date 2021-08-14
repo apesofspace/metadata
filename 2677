@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2677",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmScKzYvi3zU4E57GmZcAYFJvkeT8KQVnRpp6gYsaeiJ3j",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tolerant Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pirat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Cap"
+    }
+  ]
+}

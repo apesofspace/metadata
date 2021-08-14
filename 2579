@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2579",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmahtpYp3UFB5s1tgwTeFwXtCTPSxiDJAowbUqDZsXVshv",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Rainbow Teeth"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber Party Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "For Training"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Butterfly"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Cap"
+    }
+  ]
+}

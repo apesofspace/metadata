@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #3432",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmajB9rQWQ43VBno79EKUiurf6hdHaDmHCb57KL35djCPW",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Orangutan"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Purple Tongue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nasa Flag"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Buble"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

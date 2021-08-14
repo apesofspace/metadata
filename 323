@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #323",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmecRnCnfwgJmTY9tfBXA7Zdz8awJ8PhgsrVpnbagm8fpb",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Space Style"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "China Flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    }
+  ]
+}

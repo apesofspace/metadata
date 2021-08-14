@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #1243",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmanV82tFa3Z6UqYEt6Envq9EbnfhuzNcgyMJXbjTzpZh7",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocket fuel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Monkey"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Dangerous"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber Party Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit RU"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "One Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien"
+    }
+  ]
+}

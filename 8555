@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #8555",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmevHG1nLA5CWXbyNkQbqJb7yf5WNUnFEKT5J41egsKMGG",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Mandrill"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Head",
+      "value": ""
+    }
+  ]
+}

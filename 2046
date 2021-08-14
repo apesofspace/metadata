@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #2046",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmafZYJBKCh5xWXmJWgaF1bRuAHGzk261ZUTjcfRE6pFve",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cheese Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted Ape"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}

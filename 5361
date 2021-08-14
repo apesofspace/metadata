@@ -1,0 +1,35 @@
+{
+  "name": "Apes of Space #5361",
+  "external_link": "https://apesofspace.com/",
+  "image": "https://ipfs.io/ipfs/QmURDVJ8HpzTuUSpmuDsdGptGPqXkdBuswpgC71jD9aYHv",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dead Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Gorilla"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Rocker"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    }
+  ]
+}
